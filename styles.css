@@ -1,5 +1,11 @@
 @import url(./reset.css);
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 body {
     background-color: #000000;
     font-family: 'Raleway', sans-serif;
