@@ -1,6 +1,6 @@
 # 🎯 Trilha CSS DIO - Desafio 01
 
-Desafio prático da **Trilha de CSS** da [Digital Innovation One (DIO)](https://www.dio.me/), onde desenvolvi uma **Landing Page** responsiva utilizando **HTML e CSS puro**, com base em um protótipo do Figma.
+Participei do Desafio prático da **Trilha de CSS** da [Digital Innovation One (DIO)](https://www.dio.me/), onde desenvolvi uma **Landing Page** responsiva utilizando **HTML e CSS puro**, com base em um protótipo do Figma.
 
 > 💻 Acesse meu resultado final aqui:  
 👉 [https://laahmaximo.github.io/trilha-css-desafio-01/](https://laahmaximo.github.io/trilha-css-desafio-01/)
@@ -30,12 +30,5 @@ O projeto partiu de um modelo básico de HTML fornecido no desafio, e eu fui res
 
 - HTML5
 - CSS3
-
----
-
-## 🖼️ Protótipo (Figma)
-
-O desafio foi baseado nesse protótipo fornecido pela DIO:  
-📌 [Acessar protótipo no Figma](https://www.figma.com/file/xxxxx) <!-- substitua pelo link real se tiver -->
 
 ---
