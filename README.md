@@ -1,22 +1,41 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# 🎯 Trilha CSS DIO - Desafio 01
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Desafio prático da **Trilha de CSS** da [Digital Innovation One (DIO)](https://www.dio.me/), onde desenvolvi uma **Landing Page** responsiva utilizando **HTML e CSS puro**, com base em um protótipo do Figma.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+> 💻 Acesse meu resultado final aqui:  
+👉 [https://laahmaximo.github.io/trilha-css-desafio-01/](https://laahmaximo.github.io/trilha-css-desafio-01/)
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+---
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## 📚 Sobre o Desafio
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+O objetivo era colocar em prática os seguintes conhecimentos:
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+- Estruturação de página com HTML5
+- Estilização com CSS3
+- Uso de unidades de medida absolutas e relativas
+- Layout responsivo
+- Fontes personalizadas
+- Aplicação de gradiente em texto com `background-clip` e `-webkit-background-clip`
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+O projeto partiu de um modelo básico de HTML fornecido no desafio, e eu fui responsável por:
+
+- Criar toda a folha de estilos CSS
+- Conectar o HTML com o CSS
+- Reproduzir o design proposto no Figma
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## 🖼️ Protótipo (Figma)
+
+O desafio foi baseado nesse protótipo fornecido pela DIO:  
+📌 [Acessar protótipo no Figma](https://www.figma.com/file/xxxxx) <!-- substitua pelo link real se tiver -->
+
+---
