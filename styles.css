@@ -1,5 +1,11 @@
 @import url(./reset.css);
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 body {
     background-color: #000000;
     font-family: 'Raleway', sans-serif;
@@ -180,58 +186,4 @@ footer a {
 
 footer .dio-logo {
     width: 300px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-}
-
-/* Responsividade */
-@media (max-width: 768px) {
-
-    #transform-world {
-        background-attachment: scroll;
-        padding: 100px 25px;
-    }
-
-    .banner-content {
-        width: 90%;
-    }
-
-    .banner h1 {
-        font-size: 2rem;
-    }
-
-    .banner-content button {
-        padding: 14px 20px;
-        font-size: 0.9rem;
-    }
-
-    #course-content {
-        width: 90%;
-    }
-
-    #course-content .modules-list .module {
-        width: 95%;
-        border-radius: 20px;
-    }
-
-    #transform-world p {
-        font-size: 2rem;
-    }
-
-    #professional-challenges {
-        width: 90%;
-    }
-
-    #professional-challenges img {
-        width: 100%;
-        height: auto;
-    }
-
-    h2 {
-        font-size: 1.8rem;
-    }
 }
